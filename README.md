@@ -1,4 +1,4 @@
-![GitHub Banner](assets/banner (1).png)
+![GitHub Banner](assets/banner(1).png)
 ## 🌐 LINKS!
 
 <p align="center">
