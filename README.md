@@ -2,10 +2,10 @@
 ## 🌐 Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atul-sharma-572458211/" target="_blank"><img height="40" src = "https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/linkedin.webp"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/AtulSharma4288" target="_blank"><img height="40" src = "https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/x.webp"></a>&nbsp;&nbsp;
-  <a href="mailto:atulsharma91192@gmail.com" target="_blank"><img height="40" src = "https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/mail.png"></a>
-  <a href="https://leetcode.com/u/atulsharma08/" target="_blank"><img height="40" src = "https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/LeetCode.png"></a>
+  <a href="https://www.linkedin.com/in/atul-sharma-572458211/" target="_blank"><img height="50" src = "https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/linkedin.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/AtulSharma4288" target="_blank"><img height="50" src = "https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/x_logo.png"></a>&nbsp;&nbsp;
+  <a href="mailto:atulsharma91192@gmail.com" target="_blank"><img height="50" src = "https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/mail%20(1).png"></a>
+  <a href="https://leetcode.com/u/atulsharma08/" target="_blank"><img height="50" src = "https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/LeetCode.png"></a>
 </p>
 
 # 💻 Techs I know...
