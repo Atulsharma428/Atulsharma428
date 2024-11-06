@@ -81,7 +81,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atulsharma428&theme=tokyonight&hide_border=false"/><br/>
 </p>
 
-<h3 align="center">--- Profile Visits ---</h3>
+<!-- <h3 align="center">--- Profile Visits ---</h3>
 <img src="https://profile-counter.glitch.me/Atulsharma428/count.svg">
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
