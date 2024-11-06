@@ -51,10 +51,7 @@
     &nbsp;
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"
         height="20">&nbsp; &nbsp;
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="20">
-</p>
-
-<p align="center">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="20">&nbsp; &nbsp;
     <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black"
         height="20">&nbsp; &nbsp;
     <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=plastic&logo=opencv&logoColor=white"
@@ -85,6 +82,6 @@
 </p>
 
 <h3 align="center">--- Profile Visits ---</h3>
-[![](https://visitcount.itsvg.in/api?id=Atulsharma428&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://profile-counter.glitch.me/Atulsharma428/count.svg">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
