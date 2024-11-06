@@ -1,4 +1,4 @@
-![GitHub Banner](assets/banner(1).png)
+![GitHub Banner](https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/banner%20(1).png)
 ## 🌐 LINKS!
 
 <p align="center">
