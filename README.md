@@ -1,5 +1,6 @@
+![GitHub Banner](https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/banner-n.png)
 
-I'm Atul Sharma, a tech enthusiast and problem-solver passionate about exploring the endless possibilities in DSA, and AI. My journey spans from Web developer, machine learning to the world of Generative AI and Large Language Models, where I aim to build smarter systems that can understand, learn, and create.
+A tech enthusiast and problem-solver passionate about exploring the endless possibilities in DSA, and AI. My journey spans from Web developer, machine learning to the world of Generative AI and Large Language Models, where I aim to build smarter systems that can understand, learn, and create.
 
 💻 I speak many languages—programming languages that is! You’ll often find me coding in C, C++, Python, JavaScript, and even tinkering with HTML/CSS, SASS, Bootstrap, React, Typescript, or diving into data analysis with R-script.
 
