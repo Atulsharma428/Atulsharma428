@@ -1,4 +1,3 @@
-## ![GitHub Banner](https://github.com/Atulsharma428/Atulsharma428/blob/main/assets/banner%20(1).png)
 
 I'm Atul Sharma, a tech enthusiast and problem-solver passionate about exploring the endless possibilities in DSA, and AI. My journey spans from Web developer, machine learning to the world of Generative AI and Large Language Models, where I aim to build smarter systems that can understand, learn, and create.
 
